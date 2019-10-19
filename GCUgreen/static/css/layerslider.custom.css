@@ -1,0 +1,61 @@
+/* You can type here any CSS code that will be loaded both on your admin and front-end pages.
+Let us help you by giving a few exmaple CSS classes: */
+
+/* Front-end sliders & preview */
+
+.ls-container { /* The slider itself */
+
+}
+
+.ls-slide { 
+
+}
+
+.ls-slide a:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+.ls-slide #yourID {
+
+}
+
+.ls-slide .yourClass {
+
+}
+
+/* Side color of 3D objects */
+.ls-3d-box div { background: #777; }
+
+cmsms_layer_button {
+	font-weight:700;
+	-webkit-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	-moz-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	-ms-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	-o-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+}
+.cmsms_layer_button.book {
+	-webkit-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	-moz-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	-ms-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	-o-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+}
+.cmsms_layer_button.book:hover {
+	color:#ffffff !important;
+	background-color:#53d572!important;
+	border-color:#53d572!important;
+}
+.cmsms_layer_button.booklearn{
+	-webkit-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	-moz-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	-ms-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	-o-transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+	transition:color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out;
+}
+.cmsms_layer_button.booklearn:hover {
+	color:#ffffff!important;
+	background-color:#46c965!important;
+	border-color:#46c965!important;
+

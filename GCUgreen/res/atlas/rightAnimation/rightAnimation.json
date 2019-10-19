@@ -1,0 +1,348 @@
+{
+    "frames": {
+        "rightAnimation0001.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 61,
+                "x": 442,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 49,
+                "y": 29
+            }
+        },
+        "rightAnimation0002.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 61,
+                "x": 466,
+                "y": 387
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 49,
+                "y": 29
+            }
+        },
+        "rightAnimation0003.png": {
+            "frame": {
+                "h": 112,
+                "idx": 0,
+                "w": 108,
+                "x": 357,
+                "y": 387
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 26,
+                "y": 8
+            }
+        },
+        "rightAnimation0004.png": {
+            "frame": {
+                "h": 112,
+                "idx": 0,
+                "w": 107,
+                "x": 249,
+                "y": 387
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 26,
+                "y": 8
+            }
+        },
+        "rightAnimation0005.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 122,
+                "x": 0,
+                "y": 393
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 16,
+                "y": 4
+            }
+        },
+        "rightAnimation0006.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 122,
+                "x": 126,
+                "y": 387
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 16,
+                "y": 4
+            }
+        },
+        "rightAnimation0007.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 130,
+                "x": 546,
+                "y": 258
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 0
+            }
+        },
+        "rightAnimation0008.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 130,
+                "x": 415,
+                "y": 258
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 0
+            }
+        },
+        "rightAnimation0009.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 148,
+                "x": 535,
+                "y": 129
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "rightAnimation0010.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 148,
+                "x": 504,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "rightAnimation0011.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 152,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 0
+            }
+        },
+        "rightAnimation0012.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 152,
+                "x": 382,
+                "y": 129
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 0
+            }
+        },
+        "rightAnimation0013.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 160,
+                "x": 254,
+                "y": 258
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "rightAnimation0014.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 160,
+                "x": 281,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "rightAnimation0015.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 127,
+                "x": 254,
+                "y": 129
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 0
+            }
+        },
+        "rightAnimation0016.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 127,
+                "x": 126,
+                "y": 258
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 0
+            }
+        },
+        "rightAnimation0017.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 127,
+                "x": 153,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 0
+            }
+        },
+        "rightAnimation0018.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 127,
+                "x": 126,
+                "y": 129
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 0
+            }
+        },
+        "rightAnimation0019.png": {
+            "frame": {
+                "h": 131,
+                "idx": 0,
+                "w": 125,
+                "x": 0,
+                "y": 261
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 14,
+                "y": 0
+            }
+        },
+        "rightAnimation0020.png": {
+            "frame": {
+                "h": 131,
+                "idx": 0,
+                "w": 125,
+                "x": 0,
+                "y": 129
+            },
+            "sourceSize": {
+                "h": 132,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 14,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "rightAnimation.png",
+        "prefix": "rightAnimation/"
+    }
+}

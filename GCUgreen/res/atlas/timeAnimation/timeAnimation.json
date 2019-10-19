@@ -1,0 +1,280 @@
+{
+    "frames": {
+        "timeAnimation0001.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 500,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "timeAnimation0002.png": {
+            "frame": {
+                "h": 25,
+                "idx": 0,
+                "w": 115,
+                "x": 0,
+                "y": 111
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 193,
+                "y": 43
+            }
+        },
+        "timeAnimation0003.png": {
+            "frame": {
+                "h": 41,
+                "idx": 0,
+                "w": 183,
+                "x": 501,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 159,
+                "y": 35
+            }
+        },
+        "timeAnimation0004.png": {
+            "frame": {
+                "h": 55,
+                "idx": 0,
+                "w": 250,
+                "x": 685,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 125,
+                "y": 28
+            }
+        },
+        "timeAnimation0005.png": {
+            "frame": {
+                "h": 70,
+                "idx": 0,
+                "w": 319,
+                "x": 116,
+                "y": 111
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 91,
+                "y": 20
+            }
+        },
+        "timeAnimation0006.png": {
+            "frame": {
+                "h": 85,
+                "idx": 0,
+                "w": 387,
+                "x": 0,
+                "y": 182
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 57,
+                "y": 13
+            }
+        },
+        "timeAnimation0007.png": {
+            "frame": {
+                "h": 100,
+                "idx": 0,
+                "w": 456,
+                "x": 0,
+                "y": 268
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 22,
+                "y": 5
+            }
+        },
+        "timeAnimation0008.png": {
+            "frame": {
+                "h": 102,
+                "idx": 0,
+                "w": 462,
+                "x": 0,
+                "y": 369
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 19,
+                "y": 4
+            }
+        },
+        "timeAnimation0009.png": {
+            "frame": {
+                "h": 104,
+                "idx": 0,
+                "w": 470,
+                "x": 0,
+                "y": 472
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 15,
+                "y": 3
+            }
+        },
+        "timeAnimation0010.png": {
+            "frame": {
+                "h": 105,
+                "idx": 0,
+                "w": 478,
+                "x": 0,
+                "y": 577
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 3
+            }
+        },
+        "timeAnimation0011.png": {
+            "frame": {
+                "h": 108,
+                "idx": 0,
+                "w": 486,
+                "x": 501,
+                "y": 56
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 1
+            }
+        },
+        "timeAnimation0012.png": {
+            "frame": {
+                "h": 109,
+                "idx": 0,
+                "w": 494,
+                "x": 479,
+                "y": 165
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 1
+            }
+        },
+        "timeAnimation0013.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 500,
+                "x": 463,
+                "y": 275
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "timeAnimation0014.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 500,
+                "x": 471,
+                "y": 386
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "timeAnimation0015.png": {
+            "frame": {
+                "h": 100,
+                "idx": 0,
+                "w": 456,
+                "x": 479,
+                "y": 497
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 22,
+                "y": 5
+            }
+        },
+        "timeAnimation0016.png": {
+            "frame": {
+                "h": 100,
+                "idx": 0,
+                "w": 456,
+                "x": 479,
+                "y": 598
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "x": 22,
+                "y": 5
+            }
+        }
+    },
+    "meta": {
+        "image": "timeAnimation.png",
+        "prefix": "timeAnimation/"
+    }
+}

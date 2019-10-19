@@ -1,0 +1,297 @@
+{
+    "frames": {
+        "bonusAnimation0001.png": {
+            "frame": {
+                "h": 60,
+                "idx": 0,
+                "w": 117,
+                "x": 0,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "bonusAnimation0002.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 0,
+                "y": 222
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 25
+            }
+        },
+        "bonusAnimation0003.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 117,
+                "x": 0,
+                "y": 189
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 21
+            }
+        },
+        "bonusAnimation0004.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 117,
+                "x": 118,
+                "y": 157
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 17
+            }
+        },
+        "bonusAnimation0005.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 0,
+                "y": 157
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 14
+            }
+        },
+        "bonusAnimation0006.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 236,
+                "y": 128
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "bonusAnimation0007.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 118,
+                "y": 125
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "bonusAnimation0008.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 236,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "bonusAnimation0009.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "bonusAnimation0010.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 118,
+                "y": 93
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "bonusAnimation0011.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 236,
+                "y": 64
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "bonusAnimation0012.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 0,
+                "y": 64
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "bonusAnimation0013.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 118,
+                "y": 61
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 8
+            }
+        },
+        "bonusAnimation0014.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 236,
+                "y": 32
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 6
+            }
+        },
+        "bonusAnimation0015.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 236,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 4
+            }
+        },
+        "bonusAnimation0016.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 117,
+                "x": 0,
+                "y": 32
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        "bonusAnimation0017.png": {
+            "frame": {
+                "h": 60,
+                "idx": 0,
+                "w": 117,
+                "x": 118,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "bonusAnimation.png",
+        "prefix": "bonusAnimation/"
+    }
+}

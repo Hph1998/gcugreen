@@ -1,0 +1,518 @@
+{
+    "frames": {
+        "otherAnimation0001.png": {
+            "frame": {
+                "h": 186,
+                "idx": 0,
+                "w": 152,
+                "x": 161,
+                "y": 586
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        "otherAnimation0002.png": {
+            "frame": {
+                "h": 188,
+                "idx": 0,
+                "w": 154,
+                "x": 803,
+                "y": 798
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "otherAnimation0003.png": {
+            "frame": {
+                "h": 188,
+                "idx": 0,
+                "w": 154,
+                "x": 648,
+                "y": 798
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "otherAnimation0004.png": {
+            "frame": {
+                "h": 190,
+                "idx": 0,
+                "w": 156,
+                "x": 491,
+                "y": 800
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 8
+            }
+        },
+        "otherAnimation0005.png": {
+            "frame": {
+                "h": 192,
+                "idx": 0,
+                "w": 158,
+                "x": 332,
+                "y": 800
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "otherAnimation0006.png": {
+            "frame": {
+                "h": 192,
+                "idx": 0,
+                "w": 158,
+                "x": 834,
+                "y": 193
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "otherAnimation0007.png": {
+            "frame": {
+                "h": 194,
+                "idx": 0,
+                "w": 160,
+                "x": 497,
+                "y": 601
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 6
+            }
+        },
+        "otherAnimation0008.png": {
+            "frame": {
+                "h": 196,
+                "idx": 0,
+                "w": 161,
+                "x": 831,
+                "y": 396
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "otherAnimation0009.png": {
+            "frame": {
+                "h": 197,
+                "idx": 0,
+                "w": 162,
+                "x": 830,
+                "y": 598
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 4
+            }
+        },
+        "otherAnimation0010.png": {
+            "frame": {
+                "h": 198,
+                "idx": 0,
+                "w": 164,
+                "x": 332,
+                "y": 601
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 4
+            }
+        },
+        "otherAnimation0011.png": {
+            "frame": {
+                "h": 199,
+                "idx": 0,
+                "w": 165,
+                "x": 664,
+                "y": 598
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 3
+            }
+        },
+        "otherAnimation0012.png": {
+            "frame": {
+                "h": 201,
+                "idx": 0,
+                "w": 166,
+                "x": 664,
+                "y": 396
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 2
+            }
+        },
+        "otherAnimation0013.png": {
+            "frame": {
+                "h": 202,
+                "idx": 0,
+                "w": 167,
+                "x": 666,
+                "y": 193
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "otherAnimation0014.png": {
+            "frame": {
+                "h": 203,
+                "idx": 0,
+                "w": 168,
+                "x": 163,
+                "y": 773
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 1
+            }
+        },
+        "otherAnimation0015.png": {
+            "frame": {
+                "h": 205,
+                "idx": 0,
+                "w": 170,
+                "x": 493,
+                "y": 395
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "otherAnimation0016.png": {
+            "frame": {
+                "h": 203,
+                "idx": 0,
+                "w": 168,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 1
+            }
+        },
+        "otherAnimation0017.png": {
+            "frame": {
+                "h": 202,
+                "idx": 0,
+                "w": 167,
+                "x": 498,
+                "y": 192
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "otherAnimation0018.png": {
+            "frame": {
+                "h": 201,
+                "idx": 0,
+                "w": 166,
+                "x": 326,
+                "y": 392
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 2
+            }
+        },
+        "otherAnimation0019.png": {
+            "frame": {
+                "h": 200,
+                "idx": 0,
+                "w": 165,
+                "x": 332,
+                "y": 191
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 3
+            }
+        },
+        "otherAnimation0020.png": {
+            "frame": {
+                "h": 198,
+                "idx": 0,
+                "w": 164,
+                "x": 161,
+                "y": 387
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 4
+            }
+        },
+        "otherAnimation0021.png": {
+            "frame": {
+                "h": 197,
+                "idx": 0,
+                "w": 162,
+                "x": 169,
+                "y": 189
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 4
+            }
+        },
+        "otherAnimation0022.png": {
+            "frame": {
+                "h": 196,
+                "idx": 0,
+                "w": 162,
+                "x": 0,
+                "y": 781
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "otherAnimation0023.png": {
+            "frame": {
+                "h": 194,
+                "idx": 0,
+                "w": 160,
+                "x": 0,
+                "y": 586
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 6
+            }
+        },
+        "otherAnimation0024.png": {
+            "frame": {
+                "h": 194,
+                "idx": 0,
+                "w": 160,
+                "x": 0,
+                "y": 391
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 6
+            }
+        },
+        "otherAnimation0025.png": {
+            "frame": {
+                "h": 192,
+                "idx": 0,
+                "w": 158,
+                "x": 793,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "otherAnimation0026.png": {
+            "frame": {
+                "h": 191,
+                "idx": 0,
+                "w": 156,
+                "x": 636,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 7
+            }
+        },
+        "otherAnimation0027.png": {
+            "frame": {
+                "h": 190,
+                "idx": 0,
+                "w": 156,
+                "x": 479,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 8
+            }
+        },
+        "otherAnimation0028.png": {
+            "frame": {
+                "h": 188,
+                "idx": 0,
+                "w": 154,
+                "x": 324,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "otherAnimation0029.png": {
+            "frame": {
+                "h": 187,
+                "idx": 0,
+                "w": 154,
+                "x": 169,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "otherAnimation0030.png": {
+            "frame": {
+                "h": 186,
+                "idx": 0,
+                "w": 152,
+                "x": 0,
+                "y": 204
+            },
+            "sourceSize": {
+                "h": 209,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    },
+    "meta": {
+        "image": "otherAnimation.png",
+        "prefix": "otherAnimation/"
+    }
+}

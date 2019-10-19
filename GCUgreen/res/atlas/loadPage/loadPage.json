@@ -1,0 +1,280 @@
+{
+    "frames": {
+        "loadPage.png": {
+            "frame": {
+                "h": 190,
+                "idx": 0,
+                "w": 672,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 190,
+                "w": 672
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "yuan0001.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 97,
+                "x": 0,
+                "y": 191
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0002.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 97,
+                "x": 0,
+                "y": 290
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0003.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 0,
+                "y": 389
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0004.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 98,
+                "y": 191
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0005.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 98,
+                "y": 290
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0006.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 99,
+                "y": 389
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0007.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 197,
+                "y": 191
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0008.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 197,
+                "y": 290
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0009.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 198,
+                "y": 389
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0010.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 296,
+                "y": 191
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0011.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 296,
+                "y": 290
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0012.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 297,
+                "y": 389
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0013.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 395,
+                "y": 191
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0014.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 395,
+                "y": 290
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "yuan0015.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 98,
+                "x": 396,
+                "y": 389
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        }
+    },
+    "meta": {
+        "image": "loadPage.png",
+        "prefix": "loadPage/"
+    }
+}

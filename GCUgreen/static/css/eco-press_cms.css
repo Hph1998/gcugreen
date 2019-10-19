@@ -1,0 +1,200 @@
+.headline_outer,
+.widget_custom_twitter_entries li,
+.widget_tag_cloud a,
+.widget_nav_menu ul li a,
+#wp-calendar td,
+#wp-calendar th,
+.cmsmasters_archive_type .cmsmasters_archive_item_cont_wrap .cmsmasters_archive_item_cont_wrap_top,
+.cmsmasters_archive_type .cmsmasters_archive_item_cont_wrap_info,
+.cmsmasters_slider_project .cmsmasters_slider_project_outer .img_placeholder,
+.cmsmasters_slider_project .cmsmasters_slider_project_inner,
+.cmsmasters_slider_post .cmsmasters_slider_post_outer *,
+.cmsmasters_table td,
+.cmsmasters_table th,
+code,
+.cmsmasters_quotes_grid,
+.cmsmasters_pricing_table .cmsmasters_price_wrap,
+.cmsmasters_pricing_table .feature_list li,
+.cmsmasters_pricing_table .cmsmasters_pricing_item_inner,
+.cmsmasters_tabs .cmsmasters_tab_inner,
+.cmsmasters_tabs .cmsmasters_tabs_list .cmsmasters_tabs_list_item,
+.cmsmasters_toggles .cmsmasters_toggle_wrap,
+.cmsmasters_open_profile .profile_sidebar .profile_details_item,
+.cmsmasters_open_profile .profile_sidebar .profile_features_item,
+.cmsmasters_open_project .project_sidebar .project_details_item,
+.cmsmasters_open_project .project_sidebar .project_features_item,
+.cmsmasters_single_slider .img_placeholder,
+.cmsmasters_comment_item,
+.cmsmasters_single_slider .cmsmasters_single_slider_item_inner,
+.about_author .about_author_inner,
+.cmsmasters_open_post,
+.cmsmasters_open_post .cmsmasters_open_post_top,
+.cmsmasters_profile_vertical .profile_outer,
+.cmsmasters_profile_horizontal .profile_inner,
+.cmsmasters_project_grid .project_inner,
+.cmsmasters_project_grid .project_outer .img_placeholder,
+.cmsmasters_wrap_pagination ul li .page-numbers,
+.cmsmasters_items_filter_wrap .cmsmasters_items_filter_list li a,
+.cmsmasters_items_filter_wrap .cmsmasters_items_filter_but,
+.cmsmasters_items_filter_wrap .cmsmasters_items_sort_but,
+.post .cmsmasters_post_cont_wrapper,
+.post .cmsmasters_post_cont_wrapper .cmsmasters_post_info,
+.cmsmasters_attach_img .cmsmasters_attach_img_info,
+input:not([type=button]):not([type=checkbox]):not([type=file]):not([type=hidden]):not([type=image]):not([type=radio]):not([type=reset]):not([type=submit]):not([type=color]):not([type=range]),
+select,
+textarea,
+option,
+hr,
+.cmsmasters_divider,
+.cmsmasters_widget_divider,
+.cmsmasters_img.with_caption,
+.cmsmasters_icon_wrap .cmsmasters_simple_icon,
+.cmsmasters_icon_box.cmsmasters_icon_box_top,
+.cmsmasters_icon_box.cmsmasters_icon_box_left,
+.cmsmasters_icon_list_items.cmsmasters_icon_list_type_block .cmsmasters_icon_list_item,
+.cmsmasters_icon_list_items.cmsmasters_color_type_bg .cmsmasters_icon_list_icon:after,
+.cmsmasters_icon_list_items.cmsmasters_color_type_icon .cmsmasters_icon_list_icon:after,
+.wpcf7 form.wpcf7-form span.wpcf7-list-item input[type=checkbox] + span.wpcf7-list-item-label:before,
+.cmsmasters-form-builder .check_parent input[type=checkbox] + label:before,
+.wpcf7 form.wpcf7-form span.wpcf7-list-item input[type=radio] + span.wpcf7-list-item-label:before,
+.cmsmasters-form-builder .check_parent input[type=radio] + label:before,
+.cmsmasters_open_post .cmsmasters_post_footer a {
+    border-color: #dfdfdf;
+}
+
+body,
+.cmsmasters_sitemap_wrap .cmsmasters_sitemap_category li a,
+.cmsmasters_sitemap_wrap .cmsmasters_sitemap_archive li a,
+.cmsmasters_sitemap_wrap .cmsmasters_sitemap .sub-menu > li > a,
+.widget_custom_popular_projects_entries .widgettitle + .widget_custom_projects_entries_slides .owl-buttons > div span,
+.widget_custom_latest_projects_entries .widgettitle + .widget_custom_projects_entries_slides .owl-buttons > div span,
+.cmsmasters_posts_slider .owl-buttons > div span,
+a.notice_close,
+select,
+.cmsmasters_twitter_wrap .owl-buttons > div span,
+.cmsmasters_clients_slider .owl-buttons > div span,
+.cmsmasters_single_slider .img_placeholder,
+.cmsmasters_wrap_pagination ul li .page-numbers,
+.cmsmasters_likes a > span,
+.cmsmasters_comments a > span,
+input:not([type=button]):not([type=checkbox]):not([type=file]):not([type=hidden]):not([type=image]):not([type=radio]):not([type=reset]):not([type=submit]):not([type=color]):not([type=range]),
+textarea,
+select,
+option {
+    color: #717171;
+}
+
+#slide_top, fieldset, fieldset legend, .post_nav span, .post_nav a, .cmsmasters_dropcap.type2, .cmsmasters_icon_list_items.cmsmasters_color_type_icon .cmsmasters_icon_list_icon_wrap {
+    color: #f8f8f8;
+}
+
+a {
+    font-family: 'Lato', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: none;
+    text-decoration: none;
+}
+
+#slide_top:hover,
+.headline_outer,
+.widget_archive ul li a:hover:before,
+.widget_pages ul li a:hover:before,
+.widget_meta ul li a:hover:before,
+.widget_categories ul li a:hover:before,
+.post_nav > span:hover,
+.profile .cmsmasters_img_rollover a,
+#page .profile_social_icons a:hover,
+.project .cmsmasters_img_rollover > a,
+.cmsmasters_wrap_pagination ul li .page-numbers.next:hover,
+.cmsmasters_wrap_pagination ul li .page-numbers.prev:hover,
+.cmsmasters_hover_slider .cmsmasters_hover_slider_thumbs a:before,
+.owl-buttons > div:hover,
+.cmsmasters_button:hover,
+.button:hover,
+input[type=submit]:hover,
+input[type=button]:hover,
+button:hover {
+    background-color: #46c965;
+}
+
+.woocommerce-MyAccount-navigation ul > li > a,
+.widget_product_tag_cloud a,
+.widget_shopping_cart .total,
+.widget_shopping_cart .cart_list,
+.widget_shopping_cart .widget_shopping_cart_content,
+.shop_attributes th,
+.shop_attributes td,
+.cmsmasters_dynamic_cart .widget_shopping_cart_content:before,
+.cmsmasters_dynamic_cart .widget_shopping_cart_content .cart_list + p,
+.cmsmasters_dynamic_cart .widget_shopping_cart_content,
+.cmsmasters_product_info, .cmsmasters_product_inner,
+.select2-container .select2-choice,
+.select2-container.select2-drop-above .select2-choice,
+.input-checkbox + label:before,
+.input-radio + label:before,
+input.shipping_method + label:before,
+.shop_table th, .shop_table td,
+.cart_totals table th, .cart_totals table td,
+.shop_table .cart_item {
+    border-color: #dfdfdf;
+}
+
+/*zhaojiande*/
+.cmsmasters_post_timeline .cmsmasters_post_date {
+    background-color: #ffffff;
+
+}
+
+.widget_tag_cloud a:hover, .widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tabs_list_item.current_tab a, .widget_nav_menu ul li a:hover, .cmsmasters_table thead th, .cmsmasters_tabs .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab, .cmsmasters_stats .cmsmasters_stat_inner_stat_info, .cmsmasters_wrap_pagination ul li .page-numbers.next, .cmsmasters_wrap_pagination ul li .page-numbers.prev, .cmsmasters_post_timeline .cmsmasters_post_date, .cmsmasters_icon_list_items.cmsmasters_color_type_border .cmsmasters_icon_list_item .cmsmasters_icon_list_icon:after, .cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter .cmsmasters_counter_inner:before {
+    border-color: #53d572;
+}
+
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, fieldset legend, blockquote footer, table caption, code, .img_placeholder_small, #wp-calendar thead td, #wp-calendar thead th, .widget_custom_twitter_entries .tweet_text, .widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_lpr_tabs_cont a, .cmsmasters_pricing_table .cmsmasters_pricing_item.pricing_best .cmsmasters_pricing_item_inner a:hover, .cmsmasters_stats.stats_mode_bars.stats_type_horizontal .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner, .cmsmasters_stats.stats_mode_bars.stats_type_vertical .cmsmasters_stat_wrap .cmsmasters_stat_title, .cmsmasters_stats.stats_mode_circles .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner .cmsmasters_stat_counter_wrap, .cmsmasters_stats.stats_mode_circles .cmsmasters_stat_wrap .cmsmasters_stat_title, .cmsmasters_stats.stats_mode_bars.stats_type_vertical .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner .cmsmasters_stat_title_counter_wrap, .cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter .cmsmasters_counter_inner .cmsmasters_counter_counter_wrap, .cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter .cmsmasters_counter_inner .cmsmasters_counter_title, .cmsmasters_sitemap_wrap .cmsmasters_sitemap > li > a, .cmsmasters_sitemap_wrap .cmsmasters_sitemap > li > ul > li > a, .cmsmasters_sitemap_wrap .cmsmasters_sitemap > li > ul > li > ul li a:before, .cmsmasters_sitemap_wrap .cmsmasters_sitemap_category > li > a, .cmsmasters_sitemap_wrap .cmsmasters_sitemap_category > li > ul li a:before, .cmsmasters_sitemap_wrap .cmsmasters_sitemap_archive > li a:before, .search_bar_wrap .search_button button:before, .cmsmasters_items_filter_wrap .cmsmasters_items_sort_but, .cmsmasters_items_filter_wrap .cmsmasters_items_filter_but, .cmsmasters_items_filter_wrap .cmsmasters_items_filter_list li a, .cmsmasters_post_timeline .cmsmasters_post_date .cmsmasters_day, #page .cmsmasters_social_icon, .cmsmasters_toggles.toggles_mode_accordion .cmsmasters_toggle_title a, .cmsmasters_toggles.toggles_mode_toggle .cmsmasters_toggle_title a, .cmsmasters_tabs .cmsmasters_tabs_list_item > a span, a.notice_close:hover, .cmsmasters_twitter_wrap .cmsmasters_twitter_item_content, .cmsmasters_quotes_slider .cmsmasters_quote_content, .cmsmasters_table tfoot td, .widget_nav_menu ul li a, .widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tab.tab_comments li a, .widget_recent_comments ul li a, .widget_recent_entries ul li a, .widget_rss ul li .rsswidget {
+    color: #343434;
+}
+
+.cmsmasters_stats .cmsmasters_stat_inner_stat_info .cmsmasters_stat_counter_wrap, .cmsmasters_post_timeline .cmsmasters_post_date .cmsmasters_day {
+    font-size: 30px;
+}
+
+a, .color_2, .widget_pages ul li a, .widget_meta ul li a, .widget_categories ul li a, #wp-calendar #today, .widget_tag_cloud a, .widget_custom_twitter_entries .tweet_time:before, .cmsmasters_quotes_grid .cmsmasters_no_quote_img:before, .cmsmasters_pricing_table .feature_list .feature_icon:before, .cmsmasters_pricing_table .cmsmasters_price_wrap, .cmsmasters_twitter_wrap .twr_icon, .cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter .cmsmasters_counter_inner:before, .cmsmasters_stats .cmsmasters_stat_inner_stat_info:before, .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type='checkbox'] + span.wpcf7-list-item-label:after, .cmsmasters-form-builder .check_parent input[type='checkbox'] + label:after, .cmsmasters_dropcap.type1, .cmsmasters_wrap_more_items.cmsmasters_loading:before, .cmsmasters_icon_box.cmsmasters_icon_top:before, .cmsmasters_icon_box.cmsmasters_icon_heading_left .icon_box_heading:before, .cmsmasters_icon_list_items.cmsmasters_color_type_icon .cmsmasters_icon_list_icon:before, .cmsmasters_stats.stats_mode_bars.stats_type_horizontal .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner:before, .cmsmasters_stats.stats_mode_circles .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner:before, .bypostauthor > .comment-body .alignleft:before, .cmsmasters_sitemap_wrap .cmsmasters_sitemap > li > a:hover, .cmsmasters_sitemap_wrap .cmsmasters_sitemap > li > ul > li > a:hover, .cmsmasters_sitemap_wrap .cmsmasters_sitemap_category > li > a:hover, .cmsmasters_attach_img .cmsmasters_attach_img_edit a, .cmsmasters_attach_img .cmsmasters_attach_img_meta a, .search_bar_wrap .search_button button:hover:before, .cmsmasters_dynamic_cart .cmsmasters_dynamic_cart_button:hover, .cmsmasters_post_timeline .cmsmasters_post_date .cmsmasters_mon, .cmsmasters_wrap_pagination ul li .page-numbers.current, .cmsmasters_profile_subtitle, .cmsmasters_open_post .cmsmasters_post_footer a, .comment-reply-title a, .comment-respond label span {
+    color: #53d572;
+}
+
+h3, h3 a, .cmsmasters_quotes_slider .cmsmasters_quote_content, .cmsmasters_twitter_wrap .cmsmasters_twitter_item_content, .cmsmasters_twitter_wrap .cmsmasters_twitter_item_content a, .cmsmasters_toggles .cmsmasters_toggle_title a, .cmsmasters_stats .cmsmasters_stat_inner_stat_info .cmsmasters_stat_counter_wrap, .cmsmasters_stats.stats_mode_bars.stats_type_vertical .cmsmasters_stat_wrap .cmsmasters_stat_title, .cmsmasters_stats.stats_mode_bars .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner .cmsmasters_stat_counter_wrap, .post_nav a, .cmsmasters_post_timeline .cmsmasters_post_date .cmsmasters_day, .header_top a, .header_top, .cmsmasters_stats.stats_mode_circles .cmsmasters_stat_wrap .cmsmasters_stat_title, .cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter .cmsmasters_counter_inner .cmsmasters_counter_title, .cmsmasters_single_slider .cmsmasters_single_slider_item_title a {
+    /*font-family: 'Lato', Arial, Helvetica, 'Nimbus Sans L', sans-serif;*/
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: none;
+    text-decoration: none;
+}
+
+.cmsmasters_button {
+    font-family: 'Lato', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 11px;
+    line-height: 42px;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+
+/*积分商场遮罩*/
+/*.cmsmasters_dynamic_cart .widget_shopping_cart_content .buttons .button:hover, .widget_product_categories ul li a:hover:before, .cmsmasters_product .cmsmasters_product_img .cmsmasters_product_add_wrap:before {*/
+    /*background-color: #46c965;*/
+/*}*/
+
+.widget_tag_cloud a:hover, .widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tabs_list_item.current_tab a, .widget_nav_menu ul li a:hover, .cmsmasters_table thead th, .cmsmasters_tabs .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab, .cmsmasters_stats .cmsmasters_stat_inner_stat_info, .cmsmasters_wrap_pagination ul li .page-numbers.next, .cmsmasters_wrap_pagination ul li .page-numbers.prev, .cmsmasters_post_timeline .cmsmasters_post_date, .cmsmasters_icon_list_items.cmsmasters_color_type_border .cmsmasters_icon_list_item .cmsmasters_icon_list_icon:after, .cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter .cmsmasters_counter_inner:before {
+    border-color: #53d572;
+}
+#slide_top, mark, .widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tabs_list_item.current_tab a, .widget_nav_menu ul li a:hover, #wp-calendar caption, .widget_tag_cloud a:hover, .cmsmasters_posts_slider .owl-buttons > div:hover, .widget_custom_popular_projects_entries .widgettitle + .widget_custom_projects_entries_slides .owl-buttons > div:hover, .widget_custom_latest_projects_entries .widgettitle + .widget_custom_projects_entries_slides .owl-buttons > div:hover, .cmsmasters_table thead th, .cmsmasters_quotes_slider .owl-pagination .owl-page.active, .cmsmasters_pricing_table .cmsmasters_pricing_item.pricing_best .cmsmasters_pricing_item_inner, .cmsmasters_twitter_wrap .owl-buttons > div:hover, .cmsmasters_toggles.toggles_mode_accordion .cmsmasters_toggle_wrap:hover, .cmsmasters_clients_slider .owl-buttons > div:hover, .cmsmasters_clients_slider_wrap .owl-page.active, .post_nav, .post_nav > span, #page .profile_social_icons a, .cmsmasters_wrap_pagination ul li .page-numbers.next, .cmsmasters_wrap_pagination ul li .page-numbers.prev, #page .cmsmasters_social_icon:hover, .owl-pagination .owl-page.active, .owl-pagination .owl-page:hover, .owl-buttons > div, .cmsmasters_button, .button, input[type=submit], input[type=button], button, .cmsmasters_dropcap.type2, .cmsmasters_icon_list_items.cmsmasters_color_type_bg .cmsmasters_icon_list_item .cmsmasters_icon_list_icon, .cmsmasters_icon_list_items.cmsmasters_color_type_icon .cmsmasters_icon_list_item:hover .cmsmasters_icon_list_icon, .cmsmasters_stats.stats_mode_bars .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner, .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type=radio] + span.wpcf7-list-item-label:after, .cmsmasters-form-builder .check_parent input[type=radio] + label:after, .cmsmasters_toggles.toggles_mode_accordion .cmsmasters_toggle_wrap.current_toggle {
+    background-color: #53d572;
+}
+.widget_tag_cloud a:hover, .widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tabs_list_item.current_tab a span, .widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tabs_list_item.current_tab a, .widget_nav_menu ul li a:hover, #wp-calendar caption, .cmsmasters_posts_slider .owl-buttons > div:hover span, .widget_custom_popular_projects_entries .widgettitle + .widget_custom_projects_entries_slides .owl-buttons > div:hover span, .widget_custom_latest_projects_entries .widgettitle + .widget_custom_projects_entries_slides .owl-buttons > div:hover span, .cmsmasters_table thead th, .cmsmasters_pricing_table .cmsmasters_pricing_item.pricing_best .feature_list .feature_icon:before, .cmsmasters_pricing_table .cmsmasters_pricing_item.pricing_best .cmsmasters_pricing_item_inner .pricing_title, .cmsmasters_pricing_table .cmsmasters_pricing_item.pricing_best .cmsmasters_pricing_item_inner .cmsmasters_price_wrap, .cmsmasters_pricing_table .cmsmasters_pricing_item.pricing_best .cmsmasters_pricing_item_inner .feature_list *, .cmsmasters_twitter_wrap .owl-buttons > div:hover span, .cmsmasters_toggles.toggles_mode_accordion .cmsmasters_toggle_wrap:hover .cmsmasters_toggle_plus, .cmsmasters_toggles.toggles_mode_accordion .cmsmasters_toggle_wrap:hover .cmsmasters_toggle_title a, .cmsmasters_toggles.toggles_mode_accordion .cmsmasters_toggle_wrap.current_toggle .cmsmasters_toggle_plus:before, .cmsmasters_toggles.toggles_mode_accordion .cmsmasters_toggle_wrap.current_toggle .cmsmasters_toggle_title a, .cmsmasters_toggles.toggles_mode_accordion .cmsmasters_toggle_wrap .cmsmasters_toggle_inner *, .cmsmasters_clients_slider .owl-buttons > div:hover span, .profile .cmsmasters_img_rollover a, #page .profile_social_icons a, .cmsmasters_project_puzzle .project_inner *, .cmsmasters_project_puzzle .project_inner a, .project .cmsmasters_img_rollover > a, .cmsmasters_wrap_pagination ul li .page-numbers.next, .cmsmasters_wrap_pagination ul li .page-numbers.prev, .owl-buttons > div > span, .cmsmasters_button:hover, .button:hover, .cmsmasters_button, .button, input[type=submit]:hover, input[type=button]:hover, button:hover, input[type=submit], input[type=button], button, mark, form .formError .formErrorContent, .cmsmasters_icon_box.cmsmasters_icon_box_left_top:before, .cmsmasters_icon_box.cmsmasters_icon_box_left:before, .cmsmasters_icon_box.cmsmasters_icon_box_top:before, .cmsmasters_icon_list_items.cmsmasters_color_type_border .cmsmasters_icon_list_item .cmsmasters_icon_list_icon:before, .cmsmasters_stats.stats_mode_bars.stats_type_vertical .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner, #header .search_opened .search_bar_wrap .search_button button:before, #header .search_bar_wrap .search_field input, .cmsmasters_img_rollover_wrap .cmsmasters_img_rollover a {
+    color: #ffffff;
+}

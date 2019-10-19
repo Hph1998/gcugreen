@@ -1,0 +1,280 @@
+{
+    "frames": {
+        "xingAnimation0001.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 90,
+                "y": 69
+            }
+        },
+        "xingAnimation0002.png": {
+            "frame": {
+                "h": 201,
+                "idx": 0,
+                "w": 203,
+                "x": 33,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "xingAnimation0003.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 120,
+                "x": 237,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 49,
+                "y": 25
+            }
+        },
+        "xingAnimation0004.png": {
+            "frame": {
+                "h": 73,
+                "idx": 0,
+                "w": 70,
+                "x": 237,
+                "y": 131
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 72,
+                "y": 50
+            }
+        },
+        "xingAnimation0005.png": {
+            "frame": {
+                "h": 38,
+                "idx": 0,
+                "w": 38,
+                "x": 0,
+                "y": 202
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 87,
+                "y": 66
+            }
+        },
+        "xingAnimation0006.png": {
+            "frame": {
+                "h": 87,
+                "idx": 0,
+                "w": 86,
+                "x": 39,
+                "y": 202
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 65,
+                "y": 45
+            }
+        },
+        "xingAnimation0007.png": {
+            "frame": {
+                "h": 87,
+                "idx": 0,
+                "w": 86,
+                "x": 126,
+                "y": 202
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 65,
+                "y": 45
+            }
+        },
+        "xingAnimation0008.png": {
+            "frame": {
+                "h": 76,
+                "idx": 0,
+                "w": 76,
+                "x": 213,
+                "y": 205
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 70,
+                "y": 48
+            }
+        },
+        "xingAnimation0009.png": {
+            "frame": {
+                "h": 76,
+                "idx": 0,
+                "w": 76,
+                "x": 290,
+                "y": 205
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 70,
+                "y": 48
+            }
+        },
+        "xingAnimation0010.png": {
+            "frame": {
+                "h": 74,
+                "idx": 0,
+                "w": 69,
+                "x": 213,
+                "y": 282
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 72,
+                "y": 50
+            }
+        },
+        "xingAnimation0011.png": {
+            "frame": {
+                "h": 74,
+                "idx": 0,
+                "w": 69,
+                "x": 283,
+                "y": 282
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 72,
+                "y": 50
+            }
+        },
+        "xingAnimation0012.png": {
+            "frame": {
+                "h": 73,
+                "idx": 0,
+                "w": 69,
+                "x": 308,
+                "y": 131
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 71,
+                "y": 47
+            }
+        },
+        "xingAnimation0013.png": {
+            "frame": {
+                "h": 73,
+                "idx": 0,
+                "w": 69,
+                "x": 0,
+                "y": 290
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 71,
+                "y": 47
+            }
+        },
+        "xingAnimation0014.png": {
+            "frame": {
+                "h": 62,
+                "idx": 0,
+                "w": 63,
+                "x": 70,
+                "y": 290
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 74,
+                "y": 56
+            }
+        },
+        "xingAnimation0015.png": {
+            "frame": {
+                "h": 62,
+                "idx": 0,
+                "w": 63,
+                "x": 134,
+                "y": 290
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 74,
+                "y": 56
+            }
+        },
+        "xingAnimation0016.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 32,
+                "x": 0,
+                "y": 241
+            },
+            "sourceSize": {
+                "h": 204,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "x": 90,
+                "y": 70
+            }
+        }
+    },
+    "meta": {
+        "image": "xingAnimation.png",
+        "prefix": "xingAnimation/"
+    }
+}

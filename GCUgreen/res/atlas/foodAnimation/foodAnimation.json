@@ -1,0 +1,518 @@
+{
+    "frames": {
+        "foodAnimation0001.png": {
+            "frame": {
+                "h": 187,
+                "idx": 0,
+                "w": 152,
+                "x": 161,
+                "y": 589
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        "foodAnimation0002.png": {
+            "frame": {
+                "h": 189,
+                "idx": 0,
+                "w": 154,
+                "x": 644,
+                "y": 800
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "foodAnimation0003.png": {
+            "frame": {
+                "h": 189,
+                "idx": 0,
+                "w": 154,
+                "x": 489,
+                "y": 800
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "foodAnimation0004.png": {
+            "frame": {
+                "h": 191,
+                "idx": 0,
+                "w": 156,
+                "x": 332,
+                "y": 800
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 8
+            }
+        },
+        "foodAnimation0005.png": {
+            "frame": {
+                "h": 193,
+                "idx": 0,
+                "w": 158,
+                "x": 826,
+                "y": 799
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "foodAnimation0006.png": {
+            "frame": {
+                "h": 193,
+                "idx": 0,
+                "w": 158,
+                "x": 493,
+                "y": 604
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "foodAnimation0007.png": {
+            "frame": {
+                "h": 195,
+                "idx": 0,
+                "w": 160,
+                "x": 332,
+                "y": 604
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 6
+            }
+        },
+        "foodAnimation0008.png": {
+            "frame": {
+                "h": 197,
+                "idx": 0,
+                "w": 161,
+                "x": 826,
+                "y": 601
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "foodAnimation0009.png": {
+            "frame": {
+                "h": 198,
+                "idx": 0,
+                "w": 162,
+                "x": 663,
+                "y": 601
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 4
+            }
+        },
+        "foodAnimation0010.png": {
+            "frame": {
+                "h": 199,
+                "idx": 0,
+                "w": 164,
+                "x": 830,
+                "y": 398
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 4
+            }
+        },
+        "foodAnimation0011.png": {
+            "frame": {
+                "h": 200,
+                "idx": 0,
+                "w": 165,
+                "x": 835,
+                "y": 194
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 3
+            }
+        },
+        "foodAnimation0012.png": {
+            "frame": {
+                "h": 202,
+                "idx": 0,
+                "w": 166,
+                "x": 663,
+                "y": 398
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 2
+            }
+        },
+        "foodAnimation0013.png": {
+            "frame": {
+                "h": 203,
+                "idx": 0,
+                "w": 167,
+                "x": 667,
+                "y": 194
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "foodAnimation0014.png": {
+            "frame": {
+                "h": 204,
+                "idx": 0,
+                "w": 168,
+                "x": 163,
+                "y": 777
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 1
+            }
+        },
+        "foodAnimation0015.png": {
+            "frame": {
+                "h": 206,
+                "idx": 0,
+                "w": 170,
+                "x": 492,
+                "y": 397
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "foodAnimation0016.png": {
+            "frame": {
+                "h": 204,
+                "idx": 0,
+                "w": 168,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 1
+            }
+        },
+        "foodAnimation0017.png": {
+            "frame": {
+                "h": 203,
+                "idx": 0,
+                "w": 167,
+                "x": 499,
+                "y": 193
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "foodAnimation0018.png": {
+            "frame": {
+                "h": 202,
+                "idx": 0,
+                "w": 166,
+                "x": 325,
+                "y": 394
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 2
+            }
+        },
+        "foodAnimation0019.png": {
+            "frame": {
+                "h": 201,
+                "idx": 0,
+                "w": 165,
+                "x": 333,
+                "y": 192
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 3
+            }
+        },
+        "foodAnimation0020.png": {
+            "frame": {
+                "h": 199,
+                "idx": 0,
+                "w": 164,
+                "x": 160,
+                "y": 389
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 4
+            }
+        },
+        "foodAnimation0021.png": {
+            "frame": {
+                "h": 198,
+                "idx": 0,
+                "w": 163,
+                "x": 169,
+                "y": 190
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 4
+            }
+        },
+        "foodAnimation0022.png": {
+            "frame": {
+                "h": 197,
+                "idx": 0,
+                "w": 162,
+                "x": 0,
+                "y": 785
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "foodAnimation0023.png": {
+            "frame": {
+                "h": 195,
+                "idx": 0,
+                "w": 160,
+                "x": 0,
+                "y": 589
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 6
+            }
+        },
+        "foodAnimation0024.png": {
+            "frame": {
+                "h": 195,
+                "idx": 0,
+                "w": 159,
+                "x": 0,
+                "y": 393
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 6
+            }
+        },
+        "foodAnimation0025.png": {
+            "frame": {
+                "h": 193,
+                "idx": 0,
+                "w": 158,
+                "x": 793,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "foodAnimation0026.png": {
+            "frame": {
+                "h": 192,
+                "idx": 0,
+                "w": 156,
+                "x": 636,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 7
+            }
+        },
+        "foodAnimation0027.png": {
+            "frame": {
+                "h": 191,
+                "idx": 0,
+                "w": 156,
+                "x": 479,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 8
+            }
+        },
+        "foodAnimation0028.png": {
+            "frame": {
+                "h": 189,
+                "idx": 0,
+                "w": 154,
+                "x": 324,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "foodAnimation0029.png": {
+            "frame": {
+                "h": 188,
+                "idx": 0,
+                "w": 154,
+                "x": 169,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "foodAnimation0030.png": {
+            "frame": {
+                "h": 187,
+                "idx": 0,
+                "w": 152,
+                "x": 0,
+                "y": 205
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    },
+    "meta": {
+        "image": "foodAnimation.png",
+        "prefix": "foodAnimation/"
+    }
+}

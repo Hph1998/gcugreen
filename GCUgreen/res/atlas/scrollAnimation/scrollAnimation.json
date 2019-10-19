@@ -1,0 +1,25 @@
+{
+    "frames": {
+        "scrollAnimation0001.png": {
+            "frame": {
+                "h": 300,
+                "idx": 0,
+                "w": 1311,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 1311
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "scrollAnimation.png",
+        "prefix": "scrollAnimation/"
+    }
+}

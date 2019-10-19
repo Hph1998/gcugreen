@@ -1,0 +1,841 @@
+{
+    "frames": {
+        "douwaVictoryAnimation0001.png": {
+            "frame": {
+                "h": 389,
+                "idx": 1,
+                "w": 215,
+                "x": 1787,
+                "y": 1484
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 199,
+                "y": 17
+            }
+        },
+        "douwaVictoryAnimation0002.png": {
+            "frame": {
+                "h": 389,
+                "idx": 1,
+                "w": 262,
+                "x": 1696,
+                "y": 702
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 199,
+                "y": 17
+            }
+        },
+        "douwaVictoryAnimation0003.png": {
+            "frame": {
+                "h": 389,
+                "idx": 1,
+                "w": 265,
+                "x": 547,
+                "y": 1092
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 199,
+                "y": 17
+            }
+        },
+        "douwaVictoryAnimation0004.png": {
+            "frame": {
+                "h": 386,
+                "idx": 1,
+                "w": 271,
+                "x": 376,
+                "y": 1482
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 196,
+                "y": 20
+            }
+        },
+        "douwaVictoryAnimation0005.png": {
+            "frame": {
+                "h": 386,
+                "idx": 1,
+                "w": 274,
+                "x": 648,
+                "y": 1482
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 196,
+                "y": 20
+            }
+        },
+        "douwaVictoryAnimation0006.png": {
+            "frame": {
+                "h": 382,
+                "idx": 1,
+                "w": 297,
+                "x": 813,
+                "y": 1092
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 176,
+                "y": 24
+            }
+        },
+        "douwaVictoryAnimation0007.png": {
+            "frame": {
+                "h": 382,
+                "idx": 1,
+                "w": 300,
+                "x": 923,
+                "y": 1475
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 176,
+                "y": 24
+            }
+        },
+        "douwaVictoryAnimation0008.png": {
+            "frame": {
+                "h": 381,
+                "idx": 1,
+                "w": 299,
+                "x": 1111,
+                "y": 1092
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 181,
+                "y": 25
+            }
+        },
+        "douwaVictoryAnimation0009.png": {
+            "frame": {
+                "h": 381,
+                "idx": 1,
+                "w": 304,
+                "x": 1224,
+                "y": 1474
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 181,
+                "y": 25
+            }
+        },
+        "douwaVictoryAnimation0010.png": {
+            "frame": {
+                "h": 383,
+                "idx": 1,
+                "w": 230,
+                "x": 1411,
+                "y": 770
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 266,
+                "y": 23
+            }
+        },
+        "douwaVictoryAnimation0011.png": {
+            "frame": {
+                "h": 391,
+                "idx": 1,
+                "w": 230,
+                "x": 1642,
+                "y": 1092
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 266,
+                "y": 15
+            }
+        },
+        "douwaVictoryAnimation0012.png": {
+            "frame": {
+                "h": 398,
+                "idx": 1,
+                "w": 257,
+                "x": 1529,
+                "y": 1484
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 268,
+                "y": 8
+            }
+        },
+        "douwaVictoryAnimation0013.png": {
+            "frame": {
+                "h": 316,
+                "idx": 1,
+                "w": 257,
+                "x": 1696,
+                "y": 385
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 268,
+                "y": 90
+            }
+        },
+        "douwaVictoryAnimation0014.png": {
+            "frame": {
+                "h": 316,
+                "idx": 1,
+                "w": 257,
+                "x": 547,
+                "y": 770
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 268,
+                "y": 90
+            }
+        },
+        "douwaVictoryAnimation0015.png": {
+            "frame": {
+                "h": 362,
+                "idx": 2,
+                "w": 217,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 219,
+                "y": 44
+            }
+        },
+        "douwaVictoryAnimation0016.png": {
+            "frame": {
+                "h": 362,
+                "idx": 2,
+                "w": 217,
+                "x": 0,
+                "y": 363
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 219,
+                "y": 44
+            }
+        },
+        "douwaVictoryAnimation0017.png": {
+            "frame": {
+                "h": 393,
+                "idx": 2,
+                "w": 217,
+                "x": 0,
+                "y": 726
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 215,
+                "y": 13
+            }
+        },
+        "douwaVictoryAnimation0018.png": {
+            "frame": {
+                "h": 393,
+                "idx": 2,
+                "w": 217,
+                "x": 218,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 215,
+                "y": 13
+            }
+        },
+        "douwaVictoryAnimation0019.png": {
+            "frame": {
+                "h": 384,
+                "idx": 2,
+                "w": 230,
+                "x": 218,
+                "y": 394
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 202,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0020.png": {
+            "frame": {
+                "h": 384,
+                "idx": 2,
+                "w": 255,
+                "x": 436,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 188,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0021.png": {
+            "frame": {
+                "h": 384,
+                "idx": 2,
+                "w": 294,
+                "x": 218,
+                "y": 779
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 173,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0022.png": {
+            "frame": {
+                "h": 384,
+                "idx": 2,
+                "w": 321,
+                "x": 449,
+                "y": 385
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 158,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0023.png": {
+            "frame": {
+                "h": 384,
+                "idx": 2,
+                "w": 349,
+                "x": 692,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 143,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0024.png": {
+            "frame": {
+                "h": 384,
+                "idx": 2,
+                "w": 377,
+                "x": 513,
+                "y": 770
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 130,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0025.png": {
+            "frame": {
+                "h": 384,
+                "idx": 0,
+                "w": 405,
+                "x": 1551,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 117,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0026.png": {
+            "frame": {
+                "h": 384,
+                "idx": 0,
+                "w": 433,
+                "x": 0,
+                "y": 385
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 104,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0027.png": {
+            "frame": {
+                "h": 384,
+                "idx": 0,
+                "w": 459,
+                "x": 582,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 93,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0028.png": {
+            "frame": {
+                "h": 393,
+                "idx": 0,
+                "w": 484,
+                "x": 434,
+                "y": 385
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 82,
+                "y": 13
+            }
+        },
+        "douwaVictoryAnimation0029.png": {
+            "frame": {
+                "h": 396,
+                "idx": 0,
+                "w": 508,
+                "x": 1042,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 71,
+                "y": 10
+            }
+        },
+        "douwaVictoryAnimation0030.png": {
+            "frame": {
+                "h": 395,
+                "idx": 0,
+                "w": 530,
+                "x": 919,
+                "y": 397
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 61,
+                "y": 11
+            }
+        },
+        "douwaVictoryAnimation0031.png": {
+            "frame": {
+                "h": 392,
+                "idx": 0,
+                "w": 552,
+                "x": 0,
+                "y": 779
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 51,
+                "y": 14
+            }
+        },
+        "douwaVictoryAnimation0032.png": {
+            "frame": {
+                "h": 390,
+                "idx": 0,
+                "w": 572,
+                "x": 0,
+                "y": 1172
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 42,
+                "y": 16
+            }
+        },
+        "douwaVictoryAnimation0033.png": {
+            "frame": {
+                "h": 389,
+                "idx": 0,
+                "w": 589,
+                "x": 0,
+                "y": 1563
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 35,
+                "y": 17
+            }
+        },
+        "douwaVictoryAnimation0034.png": {
+            "frame": {
+                "h": 387,
+                "idx": 0,
+                "w": 606,
+                "x": 590,
+                "y": 793
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 28,
+                "y": 19
+            }
+        },
+        "douwaVictoryAnimation0035.png": {
+            "frame": {
+                "h": 384,
+                "idx": 0,
+                "w": 623,
+                "x": 1197,
+                "y": 793
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 21,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0036.png": {
+            "frame": {
+                "h": 384,
+                "idx": 0,
+                "w": 640,
+                "x": 1197,
+                "y": 1178
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 14,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0037.png": {
+            "frame": {
+                "h": 384,
+                "idx": 0,
+                "w": 654,
+                "x": 590,
+                "y": 1563
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0038.png": {
+            "frame": {
+                "h": 384,
+                "idx": 0,
+                "w": 581,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 87,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0039.png": {
+            "frame": {
+                "h": 384,
+                "idx": 0,
+                "w": 594,
+                "x": 1245,
+                "y": 1563
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 81,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0040.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 606,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 76,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0041.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 617,
+                "x": 607,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 72,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0042.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 561,
+                "x": 1225,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 68,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0043.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 574,
+                "x": 0,
+                "y": 385
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 64,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0044.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 584,
+                "x": 575,
+                "y": 385
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 63,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0045.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 535,
+                "x": 1160,
+                "y": 385
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 61,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0046.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 546,
+                "x": 0,
+                "y": 770
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 60,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0047.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 373,
+                "x": 0,
+                "y": 1155
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 59,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0048.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 375,
+                "x": 0,
+                "y": 1540
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 57,
+                "y": 22
+            }
+        },
+        "douwaVictoryAnimation0049.png": {
+            "frame": {
+                "h": 384,
+                "idx": 1,
+                "w": 217,
+                "x": 1787,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 406,
+                "w": 695
+            },
+            "spriteSourceSize": {
+                "x": 215,
+                "y": 22
+            }
+        }
+    },
+    "meta": {
+        "image": "douwaVictoryAnimation.png,douwaVictoryAnimation1.png,douwaVictoryAnimation2.png",
+        "prefix": "douwaVictoryAnimation/"
+    }
+}

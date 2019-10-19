@@ -1,0 +1,425 @@
+@media only screen and (min-width: 1440px) {
+    .ge_sidebar.sidebar_layout_131313 {
+        /*margin-top: 25px;*/
+    }
+
+    .sidebar_layout_131313 aside#text-4 {
+        width: 48%;
+    }
+
+    .sidebar_layout_131313 aside#text-5 {
+        width: 35%;
+    }
+
+    #text-4 {
+        margin-left: 50px;
+    }
+
+    #text-4 > .div1 {
+        margin-top: 65px;
+    }
+
+    #text-4 > .div1 > .clear {
+        clear: both;
+    }
+
+    #text-4 .div-second1 img {
+        margin-left: -5px;
+        text-align: left;
+        float: left;
+        width: 67px;
+        height: 66px;
+        zoom: 0.79;
+    }
+
+    #text-4 .div-second1 .p-second {
+        height: 66px;
+        text-align: right;
+        line-height: 66px;
+        margin-left: 1.4em;
+        /* margin-top: 10px; */
+        color: white;
+        font-size: 1.2em;
+        float: left;
+    }
+
+    #text-4 .div-second2 {
+        margin-top: 20px
+    }
+
+    #text-4 .div-second2 img {
+        text-align: left;
+        float: left;
+        width: 48px;
+        height: 66px;
+        margin-top: 10px;
+        zoom: 0.79;
+    }
+
+    #text-4 .div-second2 .p-second {
+        height: 66px;
+        text-align: right;
+        line-height: 66px;
+        margin-left: 2em;
+        /* margin-top: 10px; */
+        color: white;
+        font-size: 1.2em;
+        float: left;
+    }
+
+    #text-5 {
+        margin-left: 120px;
+    }
+
+    #text-5 > .div2 {
+        margin-top: 10px;
+        float: left;
+
+    }
+
+    #text-5 > .div3 {
+        margin-top: 10px;
+        float: left;
+    }
+
+    #text-5 > .div2 > p {
+        text-align: left;
+        color: white;
+        font-size: 17px;
+    }
+
+    #text-5 > .div3 {
+        margin-left: 80px;
+        font-size: 17px;
+    }
+
+    .text-image {
+        zoom: 0.95;
+    }
+
+    .widget{
+        padding: 20px 0 25px;
+    }
+
+}
+
+@media only screen and (max-width: 1439px) and (min-width: 1025px) {
+    .ge_sidebar.sidebar_layout_131313 {
+        margin-top: 1px;
+    }
+
+    .sidebar_layout_131313 aside#text-4 {
+        width: 42%;
+    }
+
+    .sidebar_layout_131313 aside#text-5 {
+        width: 50%;
+    }
+
+    #text-4 > .div1 {
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+
+    #text-4 > .div1 > .clear {
+        clear: both;
+    }
+
+    #text-4 .div-second1 img {
+        text-align: left;
+        float: left;
+        width: 67px;
+        height: 66px;
+        zoom: 0.79;
+    }
+
+    #text-4 .div-second1 .p-second {
+        height: 66px;
+        text-align: right;
+        line-height: 66px;
+        margin-left: 35px;
+        color: white;
+        font-size: 16px;
+        float: left;
+    }
+
+    #text-4 .div-second2 {
+        margin-top: 20px
+    }
+
+    #text-4 .div-second2 img {
+        text-align: left;
+        float: left;
+        width: 48px;
+        height: 66px;
+        margin-top: 10px;
+        zoom: 0.79;
+    }
+
+    #text-4 .div-second2 .p-second {
+        height: 66px;
+        text-align: right;
+        line-height: 66px;
+        margin-left: 50px;
+        margin-top: 10px;
+        color: white;
+        font-size: 16px;
+        float: left;
+    }
+
+    #text-5 {
+        /*margin-left: 40px;*/
+    }
+
+    #text-5 > .div2 {
+        margin-top: 10px;
+        float: left;
+        margin-left: 100px;
+
+    }
+
+    #text-5 > .div2 > p {
+        text-align: left;
+        color: white;
+        font-size: 16px;
+    }
+
+    #text-5 > .div3 {
+        margin-top: 10px;
+        float: left;
+        margin-left: 50px;
+        font-size: 16px;
+    }
+
+    .text-image {
+        zoom: 0.8;
+    }
+
+    #text-5 > .div3 > div > img {
+        /*margin-bottom: 480px;*/
+    }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 992px) {
+    .ge_sidebar.sidebar_layout_131313 {
+        margin-top: 1px;
+    }
+
+    .sidebar_layout_131313 aside#text-4 {
+        width: 42%;
+    }
+
+    .sidebar_layout_131313 aside#text-5 {
+        width: 50%;
+    }
+
+    #text-4 > .div1 {
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+
+    #text-4 > .div1 > .clear {
+        clear: both;
+    }
+
+    #text-4 .div-second1 img {
+        text-align: left;
+        float: left;
+        width: 67px;
+        height: 66px;
+    }
+
+    #text-4 .div-second1 .p-second {
+        height: 66px;
+        text-align: right;
+        line-height: 66px;
+        margin-left: 35px;
+        color: white;
+        font-size: 16px;
+        float: left;
+    }
+
+    #text-4 .div-second2 {
+        margin-top: 65px
+    }
+
+    #text-4 .div-second2 img {
+        text-align: left;
+        float: left;
+        width: 48px;
+        height: 66px;
+        margin-top: 10px;
+    }
+
+    #text-4 .div-second2 .p-second {
+        height: 66px;
+        text-align: right;
+        line-height: 66px;
+        margin-left: 50px;
+        margin-top: 10px;
+        color: white;
+        font-size: 16px;
+        float: left;
+    }
+
+    #text-5 {
+        /*margin-left: 40px;*/
+    }
+
+    #text-5 > .div2 {
+        margin-top: 10px;
+        float: left;
+        margin-left: 20px;
+
+    }
+
+    #text-5 > .div2 > p {
+        text-align: left;
+        color: white;
+        font-size: 16px;
+    }
+
+    #text-5 > .div3 {
+        margin-top: 10px;
+        float: left;
+        margin-left: 50px;
+        font-size: 16px;
+    }
+
+    #text-5 > .div3 > div > img {
+        margin-bottom: 480px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .widget {
+        position: relative;
+        padding: 40px 0 0;
+    }
+
+    #text-4 {
+        margin-top: 20px;
+    }
+
+    #text-4 .div-second1 img {
+        margin-left: 20%;
+        text-align: center;
+    }
+
+    #text-4 .div-second1 .p-second {
+        height: 70px;
+        text-align: center;
+        margin-top: -47px;
+        margin-left: -10%;
+        color: white;
+        font-size: 20px;
+    }
+
+    #text-4 .div-second2 img {
+        margin-left: 20%;
+        text-align: center;
+    }
+
+    #text-4 .div-second2 .p-second {
+        height: 70px;
+        text-align: center;
+        margin-top: -47px;
+        margin-left: 20%;
+        color: white;
+        font-size: 20px;
+    }
+
+    #text-5 {
+        margin-top: -10px;
+    }
+
+    #text-5 > .div2 {
+        text-align: left;
+        float: left;
+        margin-left: 110px;
+
+    }
+
+    #text-5 > .div2 > p {
+        text-align: center;
+    }
+
+    #text-5 > .div2 > div {
+        text-align: left;
+    }
+
+    #text-5 > .div3 {
+        text-align: right;
+        float: left;
+        margin-left: 100px;
+    }
+
+    #text-5 > .div3 > p {
+        text-align: center;
+    }
+
+    #text-5 > .div3 > div {
+        text-align: right;
+    }
+
+    #text-5 > .div3 > div > img {
+        margin-bottom: 180px;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+    .widget {
+        position: relative;
+        padding: 40px 0 0;
+    }
+
+    #text-4 .div-second1 img {
+        margin-left: 40%;
+        text-align: center;
+    }
+
+    #text-4 .div-second1 .p-second {
+        text-align: center;
+        margin-top: 10px
+    }
+
+    #text-4 .div-second2 img {
+        margin-left: 43%;
+        text-align: center;
+    }
+
+    #text-4 .div-second2 .p-second {
+        text-align: center;
+        margin-top: 10px
+    }
+
+    #text-5 {
+        margin-top: -10px;
+    }
+
+    #text-5 > .div2 {
+        text-align: center;
+    }
+
+    #text-5 > .div2 > div {
+        text-align: center;
+    }
+
+    #text-5 > .div3 {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    #text-5 > .div3 > div {
+        text-align: center;
+    }
+
+    #text-5 > .div3 > div > img {
+        margin-bottom: 20px;
+    }
+}
+
+.copyright{
+    margin-top: 20px;
+}

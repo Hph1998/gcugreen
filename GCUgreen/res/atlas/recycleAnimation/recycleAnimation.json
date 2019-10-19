@@ -1,0 +1,518 @@
+{
+    "frames": {
+        "recycleAnimation0001.png": {
+            "frame": {
+                "h": 187,
+                "idx": 0,
+                "w": 152,
+                "x": 161,
+                "y": 591
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        "recycleAnimation0002.png": {
+            "frame": {
+                "h": 189,
+                "idx": 0,
+                "w": 154,
+                "x": 487,
+                "y": 802
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "recycleAnimation0003.png": {
+            "frame": {
+                "h": 189,
+                "idx": 0,
+                "w": 154,
+                "x": 811,
+                "y": 801
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "recycleAnimation0004.png": {
+            "frame": {
+                "h": 191,
+                "idx": 0,
+                "w": 156,
+                "x": 654,
+                "y": 801
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 8
+            }
+        },
+        "recycleAnimation0005.png": {
+            "frame": {
+                "h": 193,
+                "idx": 0,
+                "w": 158,
+                "x": 328,
+                "y": 798
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "recycleAnimation0006.png": {
+            "frame": {
+                "h": 195,
+                "idx": 0,
+                "w": 158,
+                "x": 815,
+                "y": 605
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 6
+            }
+        },
+        "recycleAnimation0007.png": {
+            "frame": {
+                "h": 195,
+                "idx": 0,
+                "w": 160,
+                "x": 654,
+                "y": 605
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 6
+            }
+        },
+        "recycleAnimation0008.png": {
+            "frame": {
+                "h": 197,
+                "idx": 0,
+                "w": 162,
+                "x": 491,
+                "y": 604
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "recycleAnimation0009.png": {
+            "frame": {
+                "h": 199,
+                "idx": 0,
+                "w": 162,
+                "x": 328,
+                "y": 598
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 4
+            }
+        },
+        "recycleAnimation0010.png": {
+            "frame": {
+                "h": 199,
+                "idx": 0,
+                "w": 164,
+                "x": 163,
+                "y": 779
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 4
+            }
+        },
+        "recycleAnimation0011.png": {
+            "frame": {
+                "h": 201,
+                "idx": 0,
+                "w": 166,
+                "x": 842,
+                "y": 398
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 3
+            }
+        },
+        "recycleAnimation0012.png": {
+            "frame": {
+                "h": 203,
+                "idx": 0,
+                "w": 166,
+                "x": 842,
+                "y": 194
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 2
+            }
+        },
+        "recycleAnimation0013.png": {
+            "frame": {
+                "h": 203,
+                "idx": 0,
+                "w": 168,
+                "x": 664,
+                "y": 401
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "recycleAnimation0014.png": {
+            "frame": {
+                "h": 205,
+                "idx": 0,
+                "w": 169,
+                "x": 494,
+                "y": 398
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "recycleAnimation0015.png": {
+            "frame": {
+                "h": 206,
+                "idx": 0,
+                "w": 170,
+                "x": 671,
+                "y": 194
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "recycleAnimation0016.png": {
+            "frame": {
+                "h": 205,
+                "idx": 0,
+                "w": 169,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "recycleAnimation0017.png": {
+            "frame": {
+                "h": 203,
+                "idx": 0,
+                "w": 168,
+                "x": 502,
+                "y": 194
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "recycleAnimation0018.png": {
+            "frame": {
+                "h": 203,
+                "idx": 0,
+                "w": 167,
+                "x": 326,
+                "y": 394
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "recycleAnimation0019.png": {
+            "frame": {
+                "h": 201,
+                "idx": 0,
+                "w": 166,
+                "x": 335,
+                "y": 192
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 3
+            }
+        },
+        "recycleAnimation0020.png": {
+            "frame": {
+                "h": 200,
+                "idx": 0,
+                "w": 164,
+                "x": 161,
+                "y": 390
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 3
+            }
+        },
+        "recycleAnimation0021.png": {
+            "frame": {
+                "h": 199,
+                "idx": 0,
+                "w": 164,
+                "x": 170,
+                "y": 190
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 4
+            }
+        },
+        "recycleAnimation0022.png": {
+            "frame": {
+                "h": 197,
+                "idx": 0,
+                "w": 162,
+                "x": 0,
+                "y": 788
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "recycleAnimation0023.png": {
+            "frame": {
+                "h": 197,
+                "idx": 0,
+                "w": 160,
+                "x": 0,
+                "y": 590
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 5
+            }
+        },
+        "recycleAnimation0024.png": {
+            "frame": {
+                "h": 195,
+                "idx": 0,
+                "w": 160,
+                "x": 0,
+                "y": 394
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 6
+            }
+        },
+        "recycleAnimation0025.png": {
+            "frame": {
+                "h": 193,
+                "idx": 0,
+                "w": 158,
+                "x": 796,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "recycleAnimation0026.png": {
+            "frame": {
+                "h": 193,
+                "idx": 0,
+                "w": 158,
+                "x": 637,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "recycleAnimation0027.png": {
+            "frame": {
+                "h": 191,
+                "idx": 0,
+                "w": 156,
+                "x": 480,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 8
+            }
+        },
+        "recycleAnimation0028.png": {
+            "frame": {
+                "h": 189,
+                "idx": 0,
+                "w": 154,
+                "x": 325,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "recycleAnimation0029.png": {
+            "frame": {
+                "h": 189,
+                "idx": 0,
+                "w": 154,
+                "x": 170,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 9
+            }
+        },
+        "recycleAnimation0030.png": {
+            "frame": {
+                "h": 187,
+                "idx": 0,
+                "w": 152,
+                "x": 0,
+                "y": 206
+            },
+            "sourceSize": {
+                "h": 210,
+                "w": 175
+            },
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    },
+    "meta": {
+        "image": "recycleAnimation.png",
+        "prefix": "recycleAnimation/"
+    }
+}

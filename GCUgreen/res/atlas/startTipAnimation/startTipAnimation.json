@@ -1,0 +1,518 @@
+{
+    "frames": {
+        "startTipAnimation0001.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 118,
+                "x": 879,
+                "y": 735
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 176,
+                "y": 89
+            }
+        },
+        "startTipAnimation0002.png": {
+            "frame": {
+                "h": 65,
+                "idx": 0,
+                "w": 130,
+                "x": 1403,
+                "y": 593
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 170,
+                "y": 87
+            }
+        },
+        "startTipAnimation0003.png": {
+            "frame": {
+                "h": 71,
+                "idx": 0,
+                "w": 140,
+                "x": 1391,
+                "y": 879
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 165,
+                "y": 84
+            }
+        },
+        "startTipAnimation0004.png": {
+            "frame": {
+                "h": 77,
+                "idx": 0,
+                "w": 152,
+                "x": 1380,
+                "y": 801
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 159,
+                "y": 81
+            }
+        },
+        "startTipAnimation0005.png": {
+            "frame": {
+                "h": 83,
+                "idx": 0,
+                "w": 163,
+                "x": 1216,
+                "y": 801
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 154,
+                "y": 78
+            }
+        },
+        "startTipAnimation0006.png": {
+            "frame": {
+                "h": 89,
+                "idx": 0,
+                "w": 174,
+                "x": 289,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 148,
+                "y": 75
+            }
+        },
+        "startTipAnimation0007.png": {
+            "frame": {
+                "h": 95,
+                "idx": 0,
+                "w": 186,
+                "x": 1216,
+                "y": 705
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 142,
+                "y": 72
+            }
+        },
+        "startTipAnimation0008.png": {
+            "frame": {
+                "h": 100,
+                "idx": 0,
+                "w": 196,
+                "x": 1194,
+                "y": 915
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 137,
+                "y": 69
+            }
+        },
+        "startTipAnimation0009.png": {
+            "frame": {
+                "h": 105,
+                "idx": 0,
+                "w": 208,
+                "x": 985,
+                "y": 915
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 131,
+                "y": 67
+            }
+        },
+        "startTipAnimation0010.png": {
+            "frame": {
+                "h": 111,
+                "idx": 0,
+                "w": 218,
+                "x": 1180,
+                "y": 593
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 126,
+                "y": 64
+            }
+        },
+        "startTipAnimation0011.png": {
+            "frame": {
+                "h": 117,
+                "idx": 0,
+                "w": 230,
+                "x": 985,
+                "y": 797
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 120,
+                "y": 61
+            }
+        },
+        "startTipAnimation0012.png": {
+            "frame": {
+                "h": 122,
+                "idx": 0,
+                "w": 241,
+                "x": 1245,
+                "y": 470
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 115,
+                "y": 58
+            }
+        },
+        "startTipAnimation0013.png": {
+            "frame": {
+                "h": 129,
+                "idx": 0,
+                "w": 253,
+                "x": 1258,
+                "y": 340
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 109,
+                "y": 55
+            }
+        },
+        "startTipAnimation0014.png": {
+            "frame": {
+                "h": 134,
+                "idx": 0,
+                "w": 264,
+                "x": 1272,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 103,
+                "y": 52
+            }
+        },
+        "startTipAnimation0015.png": {
+            "frame": {
+                "h": 139,
+                "idx": 0,
+                "w": 275,
+                "x": 1258,
+                "y": 200
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 98,
+                "y": 50
+            }
+        },
+        "startTipAnimation0016.png": {
+            "frame": {
+                "h": 146,
+                "idx": 0,
+                "w": 288,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 91,
+                "y": 46
+            }
+        },
+        "startTipAnimation0017.png": {
+            "frame": {
+                "h": 153,
+                "idx": 0,
+                "w": 300,
+                "x": 879,
+                "y": 581
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 85,
+                "y": 43
+            }
+        },
+        "startTipAnimation0018.png": {
+            "frame": {
+                "h": 159,
+                "idx": 0,
+                "w": 314,
+                "x": 670,
+                "y": 841
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 78,
+                "y": 40
+            }
+        },
+        "startTipAnimation0019.png": {
+            "frame": {
+                "h": 167,
+                "idx": 0,
+                "w": 328,
+                "x": 341,
+                "y": 848
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 71,
+                "y": 36
+            }
+        },
+        "startTipAnimation0020.png": {
+            "frame": {
+                "h": 173,
+                "idx": 0,
+                "w": 340,
+                "x": 0,
+                "y": 848
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 65,
+                "y": 33
+            }
+        },
+        "startTipAnimation0021.png": {
+            "frame": {
+                "h": 179,
+                "idx": 0,
+                "w": 354,
+                "x": 471,
+                "y": 207
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 58,
+                "y": 30
+            }
+        },
+        "startTipAnimation0022.png": {
+            "frame": {
+                "h": 186,
+                "idx": 0,
+                "w": 366,
+                "x": 878,
+                "y": 394
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 52,
+                "y": 26
+            }
+        },
+        "startTipAnimation0023.png": {
+            "frame": {
+                "h": 193,
+                "idx": 0,
+                "w": 379,
+                "x": 878,
+                "y": 200
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 46,
+                "y": 23
+            }
+        },
+        "startTipAnimation0024.png": {
+            "frame": {
+                "h": 199,
+                "idx": 0,
+                "w": 392,
+                "x": 879,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 39,
+                "y": 20
+            }
+        },
+        "startTipAnimation0025.png": {
+            "frame": {
+                "h": 206,
+                "idx": 0,
+                "w": 406,
+                "x": 471,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 32,
+                "y": 16
+            }
+        },
+        "startTipAnimation0026.png": {
+            "frame": {
+                "h": 213,
+                "idx": 0,
+                "w": 418,
+                "x": 459,
+                "y": 387
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 26,
+                "y": 13
+            }
+        },
+        "startTipAnimation0027.png": {
+            "frame": {
+                "h": 219,
+                "idx": 0,
+                "w": 432,
+                "x": 446,
+                "y": 621
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 19,
+                "y": 10
+            }
+        },
+        "startTipAnimation0028.png": {
+            "frame": {
+                "h": 226,
+                "idx": 0,
+                "w": 445,
+                "x": 0,
+                "y": 621
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 6
+            }
+        },
+        "startTipAnimation0029.png": {
+            "frame": {
+                "h": 233,
+                "idx": 0,
+                "w": 458,
+                "x": 0,
+                "y": 387
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 3
+            }
+        },
+        "startTipAnimation0030.png": {
+            "frame": {
+                "h": 239,
+                "idx": 0,
+                "w": 470,
+                "x": 0,
+                "y": 147
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 470
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "startTipAnimation.png",
+        "prefix": "startTipAnimation/"
+    }
+}

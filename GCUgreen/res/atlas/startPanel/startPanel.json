@@ -1,0 +1,25 @@
+{
+    "frames": {
+        "startPanel.png": {
+            "frame": {
+                "h": 720,
+                "idx": 0,
+                "w": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 720,
+                "w": 1280
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "startPanel.png",
+        "prefix": "startPanel/"
+    }
+}

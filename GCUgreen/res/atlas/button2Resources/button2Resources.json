@@ -1,0 +1,93 @@
+{
+    "frames": {
+        "btn_Know0001.png": {
+            "frame": {
+                "h": 381,
+                "idx": 0,
+                "w": 138,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 386,
+                "w": 143
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 2
+            }
+        },
+        "btn_PlayAgain0001.png": {
+            "frame": {
+                "h": 381,
+                "idx": 0,
+                "w": 140,
+                "x": 139,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 386,
+                "w": 143
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 2
+            }
+        },
+        "btn_Return0001.png": {
+            "frame": {
+                "h": 381,
+                "idx": 0,
+                "w": 137,
+                "x": 280,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 386,
+                "w": 143
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 2
+            }
+        },
+        "btn_StartGame0001.png": {
+            "frame": {
+                "h": 381,
+                "idx": 0,
+                "w": 140,
+                "x": 418,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 386,
+                "w": 143
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 2
+            }
+        },
+        "btn_Submit0001.png": {
+            "frame": {
+                "h": 381,
+                "idx": 0,
+                "w": 141,
+                "x": 559,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 386,
+                "w": 143
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 2
+            }
+        }
+    },
+    "meta": {
+        "image": "button2Resources.png",
+        "prefix": "button2Resources/"
+    }
+}

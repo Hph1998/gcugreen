@@ -1,0 +1,1708 @@
+{
+    "frames": {
+        "progerssAnimation0001.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 638
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0002.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 528
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0003.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 528
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0004.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 528
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0005.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 506
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0006.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 506
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0007.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 506
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0008.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 484
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0009.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 484
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0010.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 484
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0011.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 462
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0012.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 462
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0013.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 352
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0014.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 440
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0015.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 440
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0016.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 440
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0017.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 418
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0018.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 418
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0019.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 418
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0020.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 396
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0021.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 396
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0022.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 396
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0023.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 374
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0024.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 374
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0025.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 374
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0026.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 462
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0027.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 704
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0028.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 704
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0029.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 726
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0030.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 704
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0031.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 682
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0032.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 682
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0033.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 682
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0034.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 660
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0035.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 660
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0036.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 660
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0037.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 638
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0038.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 550
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0039.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 638
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0040.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 616
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0041.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 616
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0042.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 616
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0043.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0044.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0045.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0046.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 572
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0047.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 572
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0048.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 572
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0049.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 550
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0050.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 550
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0051.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 264
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0052.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 176
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0053.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 154
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0054.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 154
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0055.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 154
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0056.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 132
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0057.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 132
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0058.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 132
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0059.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 110
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0060.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 110
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0061.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 110
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0062.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 88
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0063.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0064.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 88
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0065.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 66
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0066.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 66
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0067.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 66
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0068.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 44
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0069.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 44
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0070.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 44
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0071.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 22
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0072.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 22
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0073.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 22
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0074.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0075.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0076.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 88
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0077.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 352
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0078.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 352
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0079.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 330
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0080.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 330
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0081.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 330
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0082.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 308
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0083.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 308
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0084.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 308
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0085.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 286
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0086.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 286
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0087.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 286
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0088.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 176
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0089.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 264
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0090.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 264
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0091.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 242
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0092.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 242
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0093.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 242
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0094.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 220
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0095.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 220
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0096.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 220
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0097.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 198
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0098.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 332,
+                "y": 198
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0099.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 0,
+                "y": 198
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progerssAnimation0100.png": {
+            "frame": {
+                "h": 21,
+                "idx": 0,
+                "w": 331,
+                "x": 664,
+                "y": 176
+            },
+            "sourceSize": {
+                "h": 21,
+                "w": 331
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "progerssAnimation.png",
+        "prefix": "progerssAnimation/"
+    }
+}
