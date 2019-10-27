@@ -40922,6 +40922,28 @@ var Laya = window.Laya = (function(window, document) {
         __proto.countRemainTime = function() {
             this.n_Score += this.n_Time * 50;
             this.txt_Score.text = this.n_Score.toString();
+			console.log(this.n_Score)
+			var sname='游客';
+            var sno='0';
+            if(window.localStorage["name"]){
+                sname=window.localStorage["name"]
+                sno=window.localStorage["sno"]
+            };
+            var strurl="http://localhost:8080/gcugreen/score/insert?sno="+sno+"&name="+sname+"&score="+this.n_Score.toString();
+            fetch(strurl).then(function(res){
+                console.log(res)
+                if(res.ok) {
+                    if(sno=='0'){
+                        alert("以游客身份保存成绩，请登录后再玩耍！")
+                    }else{
+                        alert(sname+"：成绩已提交")
+                    }
+                }else {
+                    console.log('服务器响应出错了'); // 资源404、服务器500等
+                }
+            }).catch(function(err){
+                console.log('Network response was not ok.'); // 网络出错
+            })
         }
 
         // }
