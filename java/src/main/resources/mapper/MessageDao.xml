@@ -5,15 +5,23 @@
 <mapper namespace="com.hph.dao.MessageDao">
 	<!-- 目的：为dao接口方法提供sql语句配置 -->
 	<insert id="insertMessage">
-           insert into message (sno, name, content) values(#{arg0}, #{arg1}, #{arg2})
-   </insert>
-   <select id="queryAll" resultType="Message">
+	<selectKey keyProperty="approvalId"
+			resultType="java.lang.String" order="BEFORE">
+			select replace(uuid(),'-','') AS
+			APPROVAL_ID
+		</selectKey>
+		insert into message (id,sno, name, content,time) values(#{approvalId,jdbcType=VARCHAR},#{arg0}, #{arg1},
+		#{arg2},#{arg3})
+	</insert>
+	<select id="queryAll" resultType="Message">
 		<!-- 具体的sql -->
 		SELECT
-			sno,
-			name,
-		    content
+		sno,
+		name,
+		content,
+		time
 		FROM
-			message
+		message
+		Order By time desc
 	</select>
 </mapper>

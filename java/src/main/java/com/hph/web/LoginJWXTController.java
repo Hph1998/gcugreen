@@ -28,7 +28,7 @@ public class LoginJWXTController extends javax.servlet.http.HttpServlet{
         connectJWGL.downloadCheckcode();
         String vcode = "";
         try {
-            vcode = VCodeOCR.ocr("D:\\桌面\\checkcode.gif");
+            vcode = VCodeOCR.ocr("/soft/checkcode.gif");
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -37,9 +37,10 @@ public class LoginJWXTController extends javax.servlet.http.HttpServlet{
             String name=document.getElementById("xm").text();
             String sno =document.getElementById("xh").text();
             String xzb=document.getElementById("lbl_xzb").text();
+            String phone = document.getElementById("lbl_TELNUMBER").text();
             //返回值给网页
             Writer out = response.getWriter();
-            out.write("{ \"data\": [{\"name\":\""+name+"\",\"sno\":"+sno+",\"xzb\":\""+xzb+"\"}] }");
+            out.write("{ \"data\": [{\"name\":\""+name+"\",\"sno\":"+sno+",\"xzb\":\""+xzb+"\",\"phone\":\""+phone+"\"}] }");
             out.flush();
         }
         else {

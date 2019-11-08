@@ -103,6 +103,18 @@
     text-align: center;
     z-index: 999;
 }
+            .tableform {
+    font-family: 微软雅黑;
+    position: fixed;
+    background-color: white;
+    top: 20%;
+    left: 30%;
+    width: 500px;
+    height: 560px;
+    border-radius: 1em;
+    text-align: center;
+    z-index: 998;
+}
 #registerform {
     height: 450px;
 }
@@ -162,6 +174,16 @@
     height: 45px;
     background-color:#4CAF50;
 }
+.title{
+    position: relative;
+    text-align: center;
+    margin-top: 40px;
+}
+            .tables{
+                position:relative;
+                text-align: center;
+                margin-top: 10px
+            }
             
             
             
@@ -292,6 +314,27 @@
             <p>已有账号?立刻去<a href="#" style="text-decoration: none;color: #43A047">登录</a>吧</p>
         </div>
 </div>
+                            
+<div class="tableform" id="worldscore" style="display: none">
+        <div class="signclose">
+            <img alt="关闭" src="static/images/close.png" width="35px" height="35px" onclick="scoreclose()">
+        </div>
+    <div class="title"><p style="color: #00FF00">世界排名(TOP 10)</p></div>
+    <div class="tables">
+					<table id="tableworld" border="1" cellspacing="0" cellpadding="0" >
+					</table>
+    </div>
+</div>
+<div class="tableform" id="myscore" style="display: none">
+        <div class="signclose">
+            <img alt="关闭" src="static/images/close.png" width="35px" height="35px" onclick="scoreclose()">
+        </div>
+    <div class="title"><p style="color: #00FF00">我的战绩(TOP 10)</p></div>
+    <div class="tables">
+					<table id="tablemy" border="1" cellspacing="0" cellpadding="0" >
+					</table>
+    </div>
+</div>
                             <!-- _________________________ Finish Navigation _________________________ -->
 
                         </div>
@@ -312,6 +355,7 @@
             </div>
         </div>
         <div class="middle_inner">
+            <div style="text-align: center;"><a style="color: #FF0000" onclick="world()">世界排名</a>||<a style="color: #0000FF" onclick="my()">我的战绩</a></div>
             <div class="section step1">
                 <div class="icon">
                     <iframe id="gamelink" frameborder="0" scrolling="no" src="douwa.html" width="1600px" height="630px"></iframe>
@@ -424,6 +468,7 @@
     <script type="text/javascript" src="static/js/jquery.isotope_cms.min.js"></script>
     <script type="text/javascript" src="static/base/vue.js"></script>
 <script src="static/js/signformchange.js"></script>
+    <script src="static/js/score.js"></script>
    
 
 </body>

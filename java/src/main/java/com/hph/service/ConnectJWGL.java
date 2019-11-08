@@ -60,7 +60,7 @@ public class ConnectJWGL {
             byte[] bytes = response.bodyAsBytes();
 
             //在本地建立文件夹
-            File file = new File("D:\\桌面\\checkcode.gif");
+            File file = new File("/soft/checkcode.gif");
             if (file.exists()) {
                 file.delete();
             }

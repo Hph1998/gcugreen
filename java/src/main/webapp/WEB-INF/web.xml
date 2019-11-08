@@ -27,15 +27,15 @@
 		<servlet-name>PhotoController</servlet-name>
 		<url-pattern>/PhotoController</url-pattern>
 	</servlet-mapping>
-	
-	  <servlet>
-    <description></description>
-    <display-name>LoginJWXTController</display-name>
-    <servlet-name>LoginJWXTController</servlet-name>
-    <servlet-class>com.hph.web.LoginJWXTController</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>LoginJWXTController</servlet-name>
-    <url-pattern>/LoginJWXTController</url-pattern>
-  </servlet-mapping>
+
+	<servlet>
+		<description></description>
+		<display-name>LoginJWXTController</display-name>
+		<servlet-name>LoginJWXTController</servlet-name>
+		<servlet-class>com.hph.web.LoginJWXTController</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>LoginJWXTController</servlet-name>
+		<url-pattern>/LoginJWXTController</url-pattern>
+	</servlet-mapping>
 </web-app>

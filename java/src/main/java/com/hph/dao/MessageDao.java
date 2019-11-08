@@ -8,6 +8,6 @@ public interface MessageDao {
 
 	List<Message> queryAll();
 	
-	int insertMessage(String sno,String name,String content);
+	int insertMessage(String sno,String name,String content,String time);
 
 }

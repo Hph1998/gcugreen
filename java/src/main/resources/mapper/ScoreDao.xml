@@ -5,39 +5,39 @@
 <mapper namespace="com.hph.dao.ScoreDao">
 	<!-- 目的：为dao接口方法提供sql语句配置 -->
 	<insert id="insertScore">
-           insert into score (sno, name, score) values(#{arg0}, #{arg1}, #{arg2})
-   </insert>
-   <select id="queryAll" resultType="Score">
+		insert into score (sno, name, score) values(#{arg0}, #{arg1}, #{arg2})
+	</insert>
+	<select id="queryAll" resultType="Score">
 		<!-- 具体的sql -->
 		SELECT
-			sno,
-			name,
-		    score
+		sno,
+		name,
+		score
 		FROM
-			score s1
+		score s1
 		WHERE
-		    (
-		     SELECT count(1)
-		     FROM score s2
-		     WHERE s2.score&gt;=s1.score
-		    )&lt;=10
+		(
+		SELECT count(1)
+		FROM score s2
+		WHERE s2.score&gt;=s1.score
+		)&lt;=10
 		ORDER BY score desc;
 	</select>
-	
+
 	<select id="queryMy" resultType="Score">
 		<!-- 具体的sql -->
 		SELECT
-			sno,
-			name,
-		    score
+		sno,
+		name,
+		score
 		FROM
-			score s1
+		score s1
 		WHERE
-		    (
-		     SELECT count(1)
-		     FROM score s2
-		     WHERE s2.score&gt;=s1.score AND sno=#{sno}
-		    )&lt;=10 AND sno=#{sno}
+		(
+		SELECT count(1)
+		FROM score s2
+		WHERE s2.score&gt;=s1.score AND sno=#{sno}
+		)&lt;=10 AND sno=#{sno}
 		ORDER BY score desc;
 	</select>
 </mapper>

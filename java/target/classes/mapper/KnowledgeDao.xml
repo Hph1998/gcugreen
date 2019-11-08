@@ -7,25 +7,26 @@
 	<select id="queryAll" resultType="Knowledge">
 		<!-- 具体的sql -->
 		SELECT
-			content,
-			id,
-		    image,
-			title,
-			type
+		content,
+		id,
+		image,
+		title,
+		type
 		FROM
-			knowledge
+		knowledge
 	</select>
-	<select id="searchAll" resultType="Knowledge" parameterType="String">
+	<select id="searchAll" resultType="Knowledge"
+		parameterType="String">
 		<!-- 具体的sql -->
 		SELECT
-			content,
-			id,
-		    image,
-			title,
-			type
+		content,
+		id,
+		image,
+		title,
+		type
 		FROM
-			knowledge
+		knowledge
 		WHERE
-		    title like CONCAT('%',#{name},'%')
+		title like CONCAT('%',#{name},'%')
 	</select>
 </mapper>

@@ -21,8 +21,8 @@ public class MessageServiceImpl implements MessageService{
 	}
 	
 	@Override
-	public int insertMessage(String sno,String name, String content) {
-		return messageDao.insertMessage(sno,name,content);
+	public int insertMessage(String sno,String name, String content,String time) {
+		return messageDao.insertMessage(sno,name,content,time);
 	}
 
 }

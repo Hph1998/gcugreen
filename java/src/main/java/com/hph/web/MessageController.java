@@ -1,5 +1,8 @@
 package com.hph.web;
 
+import java.net.URL;
+import java.net.URLConnection;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -29,8 +32,8 @@ public class MessageController {
 		int total = list.size();
 		int a = 0;
 		int b = 0;
-		a = (page-1)*16;
-		b = page*16;
+		a = (page-1)*10;
+		b = page*10;
 		if(b>list.size()) {
 			b=list.size();
 		}
@@ -41,10 +44,29 @@ public class MessageController {
 		return "list";
 	}
 	@RequestMapping(value = "/insert", method = RequestMethod.GET)
-	private String insert(Model model,@ModelAttribute("sno") String sno , @ModelAttribute("name") String name, @ModelAttribute("content") String content) {
-		int result = messageService.insertMessage(sno,name,content);
+	private String insert(Model model,@ModelAttribute("sno") String sno , @ModelAttribute("name") String name, @ModelAttribute("content") String content, @ModelAttribute("time") String time) {
+		int result = messageService.insertMessage(sno,name,content,time);
 		model.addAttribute("result", result);
 		return "insert";
+	}
+	
+	@RequestMapping(value = "/time",method = RequestMethod.GET)
+	public String getWebsiteDatetime(Model model) {
+		String result="";
+		SimpleDateFormat bjSdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		try {
+			URL url = new URL("http://www.ntsc.ac.cn");// 取得资源对象
+			URLConnection uc = url.openConnection();
+			uc.connect();// 发出连接
+			Long ld = uc.getDate();// 读取网站日期时间
+			result=bjSdf.format(ld);
+			model.addAttribute("search", result);
+			return "time";
+		} catch (Exception e) {
+			e.printStackTrace();
+		} 
+		model.addAttribute("search", result);
+		return "time";
 	}
 
 }

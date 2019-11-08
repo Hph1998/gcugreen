@@ -81,7 +81,7 @@ public class VCodeOCR {
     public static Map<BufferedImage, String> loadTrainData() throws Exception {
         if (trainMap == null) {
             Map<BufferedImage, String> map = new HashMap<BufferedImage, String>();
-            File dir = new File("D:\\桌面\\GCUgreen\\java web\\train");
+            File dir = new File("/soft/train");
             File[] files = dir.listFiles();
             for (File file : files) {
                 map.put(ImageIO.read(file), file.getName().charAt(0) + "");
