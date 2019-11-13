@@ -419,7 +419,7 @@
 		//从缓存中获取数据并渲染
         var msgBoxList = [];
         $.ajax({
-                            url: "http://localhost:8080/gcugreen/message/list",
+                            url: "http://3.233.206.196/gcugreen/message/list",
                             type: "GET",
                             data: {'page': "1"},
                             dataType: 'json',
@@ -436,17 +436,18 @@
 
 		//点击发表按扭，发表内容
 		$("span.submit").click(function () {
-            if(window.localStorage["sno"]){
+		let txt = $(".message").html();
+		console.log(txt)
+            if(window.localStorage["sno"]&&txt!=""){
     var sno=window.localStorage["sno"]
     var name=window.localStorage["name"]
     var time=""
     $.ajax({
-                    url: "http://localhost:8080/gcugreen/message/time",
+                    url: "http://3.233.206.196/gcugreen/message/time",
                     type: "GET",
                     data:{},
                     success: function (data) {
                         time=data
-                        let txt = $(".message").html(); //获取输入框内容
 			if (!txt) {
 				$('.message').focus(); //自动获取焦点
 				return;
@@ -461,7 +462,7 @@
 			innerHTMl([obj]) //渲染当前输入框内容
 			$('.message').html('') // 清空输入框
     $.ajax({
-                    url: "http://localhost:8080/gcugreen/message/insert",
+                    url: "http://3.233.206.196/gcugreen/message/insert",
                     type: "GET",
                     data:{'sno':sno,
                          'name':name,
@@ -483,7 +484,7 @@
                 });
     }
     else{
-        alert("请先登录！");
+        alert("请先登录或留言内容不能为空！");
     }
 
 		});
