@@ -11,6 +11,7 @@ import com.hph.entity.Knowledge;
 
 public class KnowledgeDaoTest extends BaseTest{
 
+
 	@Autowired
 	private KnowledgeDao knowledgeDao;
 	
